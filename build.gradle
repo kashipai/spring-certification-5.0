@@ -57,3 +57,9 @@ dependencies {
 	// embedded database driver
 	testCompile group: 'com.h2database', name: 'h2', version: '1.4.197'
 }
+
+allprojects{
+	tasks.withType(Javadoc){
+		options.addStringOption("Xdoclint:none","-quiet")
+	}
+}
