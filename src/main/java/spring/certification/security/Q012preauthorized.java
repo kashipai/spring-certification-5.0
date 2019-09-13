@@ -1,6 +1,7 @@
 package spring.certification.security;
 
 import javax.annotation.security.RolesAllowed;
+
 import org.springframework.security.access.prepost.PreAuthorize;
 
 /**

@@ -1,6 +1,7 @@
 package spring.certification.mvc;
 
 import javax.servlet.ServletException;
+
 import org.springframework.web.servlet.DispatcherServlet;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.View;

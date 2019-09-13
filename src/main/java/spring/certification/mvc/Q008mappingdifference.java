@@ -1,6 +1,7 @@
 package spring.certification.mvc;
 
 import java.lang.annotation.ElementType;
+
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 

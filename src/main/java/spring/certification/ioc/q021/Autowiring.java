@@ -1,9 +1,9 @@
 package spring.certification.ioc.q021;
 
+import java.util.Optional;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.lang.Nullable;
-
-import java.util.Optional;
 
 /**
  * Spring v5.0 Professional Certification.

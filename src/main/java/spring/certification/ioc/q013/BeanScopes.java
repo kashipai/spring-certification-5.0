@@ -5,6 +5,7 @@ import org.springframework.context.annotation.Scope;
 import org.springframework.web.context.annotation.ApplicationScope;
 import org.springframework.web.context.annotation.RequestScope;
 import org.springframework.web.context.annotation.SessionScope;
+
 import spring.certification.ioc.q013.example.ScopeConfiguration;
 
 /**

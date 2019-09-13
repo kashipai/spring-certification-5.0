@@ -1,6 +1,7 @@
 package spring.certification.ioc.q034;
 
 import org.springframework.beans.factory.annotation.Value;
+
 import spring.certification.ioc.q034.example.ShelfConfiguration;
 
 /**

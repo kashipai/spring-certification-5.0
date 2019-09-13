@@ -4,7 +4,7 @@ package spring.certification.boot;
  * Spring v5.0 Professional Certification.
  * <p>
  * Question 003:<br>
- * Why is Spring Boot “opinionated”?<br>
+ * Why is Spring Boot opinionated?<br>
  * <p>
  * Answer:<br>
  * Spring Boot framework is often called as being <i>opinionated</i> framework because Spring framework development team

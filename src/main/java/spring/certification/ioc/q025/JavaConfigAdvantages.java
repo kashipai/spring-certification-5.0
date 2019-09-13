@@ -1,6 +1,7 @@
 package spring.certification.ioc.q025;
 
 import org.springframework.context.annotation.Bean;
+
 import spring.certification.ioc.q010.example.JavaBasedConfiguration;
 
 /**

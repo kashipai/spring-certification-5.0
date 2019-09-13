@@ -2,11 +2,13 @@ package spring.certification.ioc.q007;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
+
 import org.springframework.beans.factory.Aware;
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.config.BeanPostProcessor;
 import org.springframework.context.annotation.Bean;
+
 import spring.certification.ioc.q017.example.AlcoholicPostProcessor;
 import spring.certification.ioc.q018.example.LibraryConfiguration;
 import spring.certification.ioc.q019.example.CinemaConfiguration;

@@ -2,6 +2,7 @@ package spring.certification.rest;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RestController;
+
 import spring.certification.ioc.q012.ComponentScan;
 
 /**

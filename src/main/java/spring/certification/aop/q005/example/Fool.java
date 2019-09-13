@@ -1,6 +1,7 @@
 package spring.certification.aop.q005.example;
 
 import org.springframework.stereotype.Component;
+
 import spring.certification.aop.q005.example.annotation.GiveMeAfterAnyCue;
 import spring.certification.aop.q005.example.annotation.GiveMeAfterCue;
 import spring.certification.aop.q005.example.annotation.GiveMeAroundCue;

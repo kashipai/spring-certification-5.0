@@ -2,6 +2,7 @@ package spring.certification.ioc.q028;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+
 import spring.certification.ioc.q028.example.BeanScopingSupportiveConfig;
 
 /**

@@ -1,8 +1,9 @@
 package spring.certification.ioc.q021.example;
 
-import lombok.Getter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
+
+import lombok.Getter;
 
 /**
  * A living being.

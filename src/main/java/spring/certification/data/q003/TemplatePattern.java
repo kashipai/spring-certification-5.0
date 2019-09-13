@@ -1,6 +1,7 @@
 package spring.certification.data.q003;
 
 import org.springframework.jdbc.core.JdbcTemplate;
+
 import spring.certification.data.q003.example.TemplateMethod;
 
 /**

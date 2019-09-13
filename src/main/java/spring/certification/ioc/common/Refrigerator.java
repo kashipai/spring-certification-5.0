@@ -1,8 +1,9 @@
 package spring.certification.ioc.common;
 
-import lombok.Getter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
+
+import lombok.Getter;
 
 /**
  * Household appliance which stores food and drinks.

@@ -1,10 +1,12 @@
 package spring.certification.data.q002;
 
 import javax.sql.DataSource;
+
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
 import org.springframework.jdbc.datasource.SingleConnectionDataSource;
 import org.springframework.jdbc.datasource.embedded.EmbeddedDatabase;
 import org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseBuilder;
+
 import spring.certification.data.q002.example.SampleDataSourceConfiguration;
 
 /**

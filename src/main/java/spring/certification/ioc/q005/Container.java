@@ -2,6 +2,7 @@ package spring.certification.ioc.q005;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
+
 import org.springframework.beans.factory.Aware;
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;
@@ -13,6 +14,7 @@ import org.springframework.beans.factory.config.BeanPostProcessor;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
+
 import spring.certification.ioc.q007.BeanLifecycle;
 
 /**

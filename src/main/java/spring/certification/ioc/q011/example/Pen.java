@@ -1,9 +1,10 @@
 package spring.certification.ioc.q011.example;
 
-import lombok.Getter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.stereotype.Component;
+
+import lombok.Getter;
 
 /**
  * Class annotated with <b>stereotype</b> annotation is a candidate for automatic detection and registering as

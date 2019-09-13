@@ -2,6 +2,7 @@ package spring.certification.test.q001;
 
 import org.springframework.mock.env.MockEnvironment;
 import org.springframework.mock.env.MockPropertySource;
+
 import spring.certification.test.q001.example.PropertyResolver;
 
 /**

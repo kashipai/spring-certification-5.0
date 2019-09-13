@@ -2,6 +2,7 @@ package spring.certification.data.q023;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
+
 import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;
 import org.springframework.orm.jpa.LocalEntityManagerFactoryBean;
 

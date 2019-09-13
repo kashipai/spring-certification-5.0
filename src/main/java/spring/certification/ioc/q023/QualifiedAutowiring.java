@@ -2,6 +2,7 @@ package spring.certification.ioc.q023;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
+
 import spring.certification.ioc.q023.example.QualifiedConfiguration;
 
 /**

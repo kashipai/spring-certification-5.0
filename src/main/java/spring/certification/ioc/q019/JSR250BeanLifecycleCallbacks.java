@@ -1,14 +1,15 @@
 package spring.certification.ioc.q019;
 
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
+
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.CommonAnnotationBeanPostProcessor;
+
 import spring.certification.ioc.q018.BeanLifecycleCallbacks;
 import spring.certification.ioc.q019.example.CinemaConfiguration;
-
-import javax.annotation.PostConstruct;
-import javax.annotation.PreDestroy;
 
 /**
  * Spring v5.0 Professional Certification.

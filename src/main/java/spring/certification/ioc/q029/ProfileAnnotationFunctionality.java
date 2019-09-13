@@ -1,6 +1,7 @@
 package spring.certification.ioc.q029;
 
 import org.springframework.context.annotation.Profile;
+
 import spring.certification.ioc.q029.example.DevelopmentConfiguration;
 import spring.certification.ioc.q029.example.LeadDeveloperProductionConfiguration;
 

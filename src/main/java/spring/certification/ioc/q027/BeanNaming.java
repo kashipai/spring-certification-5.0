@@ -1,10 +1,10 @@
 package spring.certification.ioc.q027;
 
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
-
 import java.time.Duration;
 import java.time.Period;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 
 /**
  * Spring v5.0 Professional Certification.

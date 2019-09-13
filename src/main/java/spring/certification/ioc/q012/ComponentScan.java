@@ -3,12 +3,14 @@ package spring.certification.ioc.q012;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.Target;
+
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Controller;
 import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
+
 import spring.certification.ioc.q011.DependencyInjectionAnnotationConfig;
 import spring.certification.ioc.q023.example.NonQualifiedConfiguration;
 import spring.certification.ioc.q023.example.QualifiedConfiguration;

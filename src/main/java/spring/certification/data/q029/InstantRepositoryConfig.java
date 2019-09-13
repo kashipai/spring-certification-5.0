@@ -8,7 +8,7 @@ import org.springframework.data.repository.RepositoryDefinition;
  * Spring v5.0 Professional Certification.
  * <p>
  * Question 029:<br>
- * How do you define an “instant” repository?<br>
+ * How do you define an instant repository?<br>
  * Why is it an interface not a class?<br>
  * <p>
  * Answer:<br>

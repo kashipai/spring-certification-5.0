@@ -1,9 +1,10 @@
 package spring.certification.rest;
 
-import com.fasterxml.jackson.annotation.JsonView;
 import org.springframework.http.client.MultipartBodyBuilder;
 import org.springframework.http.converter.HttpMessageConverter;
 import org.springframework.web.client.RestTemplate;
+
+import com.fasterxml.jackson.annotation.JsonView;
 
 /**
  * Spring v5.0 Professional Certification.

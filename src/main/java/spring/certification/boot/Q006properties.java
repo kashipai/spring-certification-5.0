@@ -2,6 +2,7 @@ package spring.certification.boot;
 
 import javax.servlet.ServletConfig;
 import javax.servlet.ServletContext;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.env.RandomValuePropertySource;

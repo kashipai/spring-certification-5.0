@@ -1,6 +1,7 @@
 package spring.certification.data.q024;
 
 import javax.sql.DataSource;
+
 import org.springframework.orm.jpa.JpaTransactionManager;
 
 /**

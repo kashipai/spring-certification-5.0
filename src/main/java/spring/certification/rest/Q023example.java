@@ -3,11 +3,12 @@ package spring.certification.rest;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 
-import lombok.Getter;
-import lombok.Setter;
 import org.junit.Test;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.client.RestTemplate;
+
+import lombok.Getter;
+import lombok.Setter;
 
 /**
  * Spring v5.0 Professional Certification.

@@ -1,6 +1,7 @@
 package spring.certification.mvc;
 
 import java.util.Map;
+
 import org.springframework.ui.Model;
 import org.springframework.web.servlet.View;
 

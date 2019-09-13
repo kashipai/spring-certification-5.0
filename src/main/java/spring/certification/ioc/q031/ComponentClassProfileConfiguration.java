@@ -3,6 +3,7 @@ package spring.certification.ioc.q031;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
+
 import spring.certification.ioc.q029.example.DevelopmentConfiguration;
 
 /**

@@ -2,8 +2,10 @@ package spring.certification.ioc.q030;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Target;
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Profile;
+
 import spring.certification.ioc.q030.example.MethodLevelProfileConfiguration;
 
 /**

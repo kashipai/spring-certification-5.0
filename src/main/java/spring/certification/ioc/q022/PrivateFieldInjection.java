@@ -3,6 +3,7 @@ package spring.certification.ioc.q022;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.test.util.ReflectionTestUtils;
+
 import spring.certification.ioc.q022.example.SpringFramework;
 
 /**

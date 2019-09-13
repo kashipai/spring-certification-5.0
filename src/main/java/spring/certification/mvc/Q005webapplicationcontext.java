@@ -1,8 +1,8 @@
 package spring.certification.mvc;
 
-import org.springframework.web.context.WebApplicationContext;
-
 import javax.servlet.ServletContext;
+
+import org.springframework.web.context.WebApplicationContext;
 
 /**
  * Spring v5.0 Professional Certification.

@@ -1,7 +1,8 @@
 package spring.certification.ioc.q034.example;
 
-import lombok.Getter;
 import org.springframework.stereotype.Component;
+
+import lombok.Getter;
 
 /**
  * A synthetic material.

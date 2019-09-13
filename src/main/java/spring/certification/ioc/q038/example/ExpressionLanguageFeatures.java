@@ -2,11 +2,13 @@ package spring.certification.ioc.q038.example;
 
 import java.util.List;
 import java.util.Map;
-import lombok.Getter;
+
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.expression.spel.standard.SpelExpression;
 import org.springframework.expression.spel.standard.SpelExpressionParser;
 import org.springframework.stereotype.Component;
+
+import lombok.Getter;
 
 /**
  * Demonstrates functionality offered by SpEL. Underneath SpEL is parsed and evaluated by

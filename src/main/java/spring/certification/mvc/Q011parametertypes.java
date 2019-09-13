@@ -1,10 +1,12 @@
 package spring.certification.mvc;
 
 import java.util.Map;
+
 import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
+
 import org.springframework.http.HttpMethod;
 import org.springframework.ui.Model;
 import org.springframework.ui.ModelMap;

@@ -5,6 +5,7 @@ import org.springframework.context.EnvironmentAware;
 import org.springframework.context.annotation.Profile;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.core.env.EnvironmentCapable;
+
 import spring.certification.ioc.q036.example.EnvironmentConfiguration;
 
 /**

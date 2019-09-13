@@ -1,6 +1,7 @@
 package spring.certification.data.q025;
 
 import javax.persistence.EntityManagerFactory;
+
 import org.springframework.orm.jpa.JpaTransactionManager;
 import org.springframework.transaction.jta.JtaTransactionManager;
 

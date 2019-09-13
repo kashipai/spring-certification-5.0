@@ -3,6 +3,7 @@ package spring.certification.ioc.q026;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;
+
 import spring.certification.ioc.q010.DependencyInjectionJavaConfig;
 import spring.certification.ioc.q018.BeanLifecycleCallbacks;
 import spring.certification.ioc.q019.JSR250BeanLifecycleCallbacks;

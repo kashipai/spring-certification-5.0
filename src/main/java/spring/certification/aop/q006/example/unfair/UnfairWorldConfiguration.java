@@ -3,6 +3,7 @@ package spring.certification.aop.q006.example.unfair;
 import org.aspectj.lang.annotation.Aspect;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.test.context.ContextConfiguration;
+
 import spring.certification.aop.q006.example.people.GenerousMan;
 
 /**

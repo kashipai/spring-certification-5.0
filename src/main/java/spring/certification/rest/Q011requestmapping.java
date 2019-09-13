@@ -1,6 +1,7 @@
 package spring.certification.rest;
 
 import org.springframework.web.bind.annotation.RequestMapping;
+
 import spring.certification.mvc.Q007requestmapping;
 import spring.certification.mvc.Q008mappingdifference;
 

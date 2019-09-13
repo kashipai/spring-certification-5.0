@@ -2,6 +2,7 @@ package spring.certification.ioc.q027.example;
 
 import java.time.Duration;
 import java.time.Period;
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

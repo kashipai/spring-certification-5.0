@@ -1,6 +1,7 @@
 package spring.certification.security;
 
 import java.util.Collection;
+
 import org.springframework.security.access.prepost.PostAuthorize;
 import org.springframework.security.access.prepost.PostFilter;
 import org.springframework.security.access.prepost.PreAuthorize;

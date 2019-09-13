@@ -1,9 +1,12 @@
 package spring.certification.data.q032;
 
 import java.util.List;
+
 import javax.persistence.NamedQuery;
+
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
+
 import spring.certification.ioc.q016.example.Holiday;
 
 /**

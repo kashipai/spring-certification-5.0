@@ -1,6 +1,7 @@
 package spring.certification.rest;
 
 import org.springframework.web.bind.annotation.PathVariable;
+
 import spring.certification.mvc.Q010pathvariable;
 
 /**

@@ -1,6 +1,9 @@
 package spring.certification.data.helper.config;
 
-import com.mysql.cj.jdbc.MysqlDataSource;
+import java.sql.SQLException;
+
+import javax.sql.DataSource;
+
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -11,8 +14,7 @@ import org.springframework.transaction.PlatformTransactionManager;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 import org.springframework.transaction.support.TransactionTemplate;
 
-import javax.sql.DataSource;
-import java.sql.SQLException;
+import com.mysql.cj.jdbc.MysqlDataSource;
 
 /**
  * Configures {@link javax.sql.DataSource} bean to sample official MySQL database.
